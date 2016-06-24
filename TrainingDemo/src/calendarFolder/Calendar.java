@@ -1,4 +1,4 @@
-package JavaCode;
+package calendarFolder;
 import java.util.Scanner;
 
 /* 假设1900-1-1是星期一，所以说要计算每个月的第一天是星期几？
